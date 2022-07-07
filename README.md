@@ -1,5 +1,5 @@
 <h1 align="center">Hi🙏, I'm Sonu Kumar</h1>
-<p>A passionate backend developer and a freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build.
+<p>A passionate backend developer and a freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Have developed services that handles millions of requets per minute. 
 </p>
 <h2 align="center">🌱 Backend Developer 🌱</h2>
 
@@ -34,6 +34,13 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"></code>
+
+
+
 
 <h2></h2>
 <h2> If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 <a href="https://www.buymeacoffee.com/sonus21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </h2>
