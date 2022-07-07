@@ -47,12 +47,17 @@
 
 
 
-
 <h3> 📊 My Github Stats</h3>
 <a href="https://github.com/sonus21/github-readme-activity-graph"><img alt="Sonu Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonus21&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonus21&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
+<code>
+<div style:"margin-bottom:10px">
+<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonus21&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sonus21&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
+<p><img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=sonus21&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
+</div>
+</code>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonus21&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
+
 
