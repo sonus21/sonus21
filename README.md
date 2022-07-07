@@ -1,5 +1,5 @@
 <h1 align="center">Hi🙏, I'm Sonu Kumar</h1>
-<p>A passionate backend developer and a freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Have developed services that handles millions of requets per minute. 
+<p>A backend developer and freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Have developed services that handles millions of requets per minute. 
 </p>
 <h2 align="center">🌱 Backend Developer 🌱</h2>
 
