@@ -12,9 +12,10 @@
 <p align="center">
 <a href="https://twitter.com/_sonus21" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Sonu's Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sonus21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Sonu's LinkedIn" height="30" width="40" /></a>
+<a href="https://sonus21.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/PNG/RGB/Medium-Symbol-Black-RGB%401x.png" alt="Sonu's Medium Blog" height="30" width="40" /></a>
 </p>
 
-<hr />
+<h2></h2>
 
 **languages and tools:**  
 
