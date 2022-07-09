@@ -41,7 +41,7 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/480px-Elasticsearch_logo.svg.png"></code>
 
 <!-- PUB/SUB -->
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png"></code>
+<code><img height="50" alt="Apache Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 
 <!-- Monitoring & Alerting -->
@@ -49,7 +49,6 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/260px-Prometheus_software_logo.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/440px-Datadog_logo.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_HZ_RGB.png/440px-Logo_HZ_RGB.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/440px-Datadog_logo.svg.png"></code>
 <code><img height="50" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg"></code>
 
 <!--- Version Control -->
@@ -61,10 +60,10 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code>
 
 <!--- OS -->
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 
 <!-- Cloud Provider -->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
