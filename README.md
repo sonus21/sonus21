@@ -1,5 +1,5 @@
-<h1 align="center">Hi🙏, I'm Sonu Kumar</h1>
-<p>A backend developer and freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Have developed services that handles millions of requets per minute. 
+<h1 align="center">Hi🙏, I'm Sonu</h1>
+<p>A backend developer and freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Having experience with building microservices that handles millions of requets per minute. 
 </p>
 <h2 align="center">🌱 Backend Developer 🌱</h2>
 
@@ -40,7 +40,9 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/480px-Elasticsearch_logo.svg.png"></code>
 
-<!-- PUB/SUB -->
+<!-- Communication Patterns -->
+<code><span>REST</span></code>
+<code><span>gRPC</span></code>
 <code><img height="50" alt="Apache Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 
@@ -63,7 +65,13 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/868696fc547869eb5de5add3b3695abdd43bb9dc/topics/macos/macos.png"></code>
+
+
+<!-- CI/CD -->
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/gocd/gocd/master/server/src/main/webapp/static/images/logo_go.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+
 
 <!-- Cloud Provider -->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
