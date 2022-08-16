@@ -51,7 +51,7 @@
 <code><span>SQS</span></code>
 <code><span>SNS</span></code>
 <code><span>Redis</span></code>
-code><span>SideKiq</span></code>
+<code><span>SideKiq</span></code>
 <code><span>gRPC</span></code>
 
 
