@@ -1,10 +1,11 @@
 <h1 align="center">Hi🤝, I'm Sonu</h1>
-<p>A backend developer and freelance software engineer from india. My passion for software lies with builduing highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Having experience with building microservices that handles millions of requets per minute. 
+<p>A backend developer and freelance software engineer from india. My passion for software lies with building highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Having experience with building microservices that handles millions of requets per minute. 
 </p>
+
 <h2 align="center">🌱 Backend Developer 🌱</h2>
 
 - 💼 any freelance work? do reach [sonunitw12@gmail.com](mailto:sonunitw12@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help.
 - 📫 Drop me mail at **sonunitw12@gmail.com** 📫
 
 
