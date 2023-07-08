@@ -4,8 +4,7 @@
 
 <h2 align="center">🌱 Backend Developer 🌱</h2>
 
-- 💼 Any freelance work? do reach [sonunitw12@gmail.com](mailto:sonunitw12@gmail.com)
-- 💬 Ask me about anything, i am happy to help.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Drop me mail at **sonunitw12@gmail.com** 📫
 
 
