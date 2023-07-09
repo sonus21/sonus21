@@ -1,5 +1,5 @@
 <h1 align="center">Hi🤝, I'm Sonu</h1>
-<p>A backend developer and freelance software engineer from india. My passion for software lies with building highly scalable backends with little to zero downtime. I take great care in the  architecture, latency, scale, bugs and code quality of the things I build. Having experience with building microservices that handles millions of requets per minute. 
+<p>I am an Indian backend developer and freelance software engineer with a passion for creating highly scalable backends that operate smoothly without downtime. My approach to software development is centered around simplicity and scalability, prioritizing meticulous architecture and modularity. When building software, I pay close attention to factors such as latency, scalability, handling edge cases, and maintaining high code quality. With my extensive experience, I have successfully worked with and managed numerous microservices, some of which have handled millions of requests per minute.
 </p>
 
 <h2 align="center">🌱 Backend Developer 🌱</h2>
