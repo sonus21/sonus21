@@ -44,18 +44,19 @@
 <code><img height="50" alt="RESTful API" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/rest-api.jpg"></code>
 <code><img height="50" alt="gRPC" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/grpc.png"></code>
 <code><img height="50" alt="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
-<code><img height="50" alt="Apache Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png"></code>
+<code><img height="50" alt="Event Driven" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/event-driven.png"></code>
+
+### Messaging Libraries
 <code><img height="50" alt="MQTT" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 <code><img height="50" alt="NATS" src="https://raw.githubusercontent.com/nats-io/nats-server/8415f609d78cf8a1b2d938c7bce7f54fafe57267/logos/nats-horizontal-color.png"></code>
 
 #### Asynchronous Processing 
-<code><span>JMS</span></code>
-<code><span>SQS</span></code>
-<code><span>SNS</span></code>
-<code><span>Redis</span></code>
-<code><span>SideKiq</span></code>
-<code><span>Kafka</span></code>
-<code><span>RabbitMQ</span></code>
+<code><img height="50" alt="SNS" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/sns.svg"></code>
+<code><img height="50" alt="SQS" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/sqs.png"></code>
+<code><img height="50" alt="Redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="50" alt="Sidekiq" src="https://repository-images.githubusercontent.com/3195124/9c297005-12fc-49fd-853e-67bba879a6f2"></code>
+<code><img height="50" alt="Apache Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/128px-Apache_kafka.svg.png"></code>
+<code><img height="50" alt="RabbitMQ" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg"></code>
 
 #### Monitoring & Alerting
 <code><img height="50" alt="Grafana" src="https://raw.githubusercontent.com/grafana/grafana/75c1b73064382a3364e1dde5101a3ff7934646f6/docs/logo-horizontal.png"></code>
