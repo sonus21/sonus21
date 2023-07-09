@@ -52,7 +52,7 @@ With my extensive experience, I have successfully worked with and managed numero
 ### Messaging Libraries
 <code><img height="50" alt="MQTT" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 <code><img height="50" alt="NATS" src="https://raw.githubusercontent.com/nats-io/nats-server/8415f609d78cf8a1b2d938c7bce7f54fafe57267/logos/nats-horizontal-color.png"></code>
-<code><img height="50" alt="Websocket" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/web-socket.gif"></code>
+<code><img height="50" alt="Websocket" src="https://raw.githubusercontent.com/sonus21/sonus21/master/assets/websocket.png"></code>
 <code><img height="50" alt="XMPP" src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg"></code>
 
 #### Asynchronous Processing 
