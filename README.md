@@ -1,5 +1,8 @@
 <h1 align="center">Hi🤝, I'm Sonu</h1>
-<p>I am an Indian backend developer and freelance software engineer with a passion for creating highly scalable backends that operate smoothly without downtime. My approach to software development is centered around simplicity and scalability, prioritizing meticulous architecture and modularity. When building software, I pay close attention to factors such as latency, scalability, handling edge cases, and maintaining high code quality. With my extensive experience, I have successfully worked with and managed numerous microservices, some of which have handled millions of requests per minute.
+<p>I am a backend developer and freelance software engineer with a passion for creating highly scalable backends that operate smoothly without downtime.
+My approach to software development is centered around simplicity and scalability, prioritizing meticulous architecture and modularity.
+When building software, I pay close attention to factors such as latency, scalability, handling edge cases, and maintaining high code quality. 
+With my extensive experience, I have successfully worked with and managed numerous microservices, some of which have handled millions of requests per minute.
 </p>
 
 <h2 align="center">🌱 Backend Developer 🌱</h2>
@@ -97,12 +100,8 @@
 
 <h3> 📊 My Github Stats</h3>
 
-<img alt="Sonu Kumar-Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sonus21&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" />
-
-
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonus21&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" />
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sonus21&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" />
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonus21&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sonus21" /></p>
