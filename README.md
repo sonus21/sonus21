@@ -1,8 +1,8 @@
 <h1 align="center">Hi🤝, I'm Sonu</h1>
-<p>I am a software engineer mostly working on the backend with a passion for creating highly scalable apps that operate smoothly without downtime.
+<p>I am a software engineer mostly working on the backend with a passion for creating highly scalable apps that operate smoothly without downtime or near to zero downtime, I believe in five nines or more nines.
+  
 My approach to software development is centered around simplicity and scalability, prioritizing meticulous architecture and modularity.
-When building software, I pay close attention to factors such as latency, scalability, handling edge cases, and maintaining high code quality. 
-With my extensive experience, I have successfully worked with and managed numerous microservices, some of which have handled millions of requests per minute.
+When building software, I pay close attention to factors such as latency, scalability, handling edge cases, and maintaining high code quality. With my extensive experience, I have successfully worked with and managed numerous microservices, some of which have handled millions of requests per minute.
 </p>
 
 <h2 align="center">🌱 Backend Developer 🌱</h2>
